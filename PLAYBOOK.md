@@ -38,7 +38,7 @@ Render natijasi `engine.OUT` papkasiga tushadi; keyin `videos/` ga nusxa olib, c
 | 2026-10-29 10:00 | C_6_daqiqa_oqish.mp4 | 6 daqiqa o'qish stressni 68% kamaytiradi (Sussex, 2009) | och infografika, lo-fi | 408285734 |
 | 2026-10-30 10:00 | B_buxoriy_16_yil.mp4 | Imom Buxoriy, 16 yil, 600 000 hadis | qo'lyozma/pergament, sharqona musiqa (Hijoz) | 408285761 |
 | 2026-10-31 10:00 | D_ibn_sino_tib_qonunlari.mp4 | Ibn Sino, "Tib qonunlari" | ko'k chizma (blueprint), kinematik pad + pianino | 408285784 |
-| 2026-11-01 10:00 | E_otkan_kunlar_birinchi_roman.mp4 | "O'tkan kunlar" — birinchi o'zbek romani | 1920-yillar gazetasi, grammofon vals | (rejalashtiriladi) |
+| 2026-11-01 10:00 | E_otkan_kunlar_birinchi_roman.mp4 | "O'tkan kunlar" — birinchi o'zbek romani | 1920-yillar gazetasi, grammofon vals | 408287767 |
 
 ## Keyingi mavzular uchun g'oyalar (ishlatilganini o'chiring)
 
@@ -50,3 +50,5 @@ Render natijasi `engine.OUT` papkasiga tushadi; keyin `videos/` ga nusxa olib, c
 - Dunyodagi eng qadimgi kutubxonalar, Usmon Mushafi (Toshkent).
 - BookNote imkoniyatlari: streak, yillik maqsad, Ijodxona, referal (animatsion tushuntirish, ilova skrinshotlarisiz).
 - Viktorina e'loni (21-noyabr), g'oliblar e'loni (natija Abdullohdan olinadi).
+
+Oxirgi metrika tahlili: hali bo'lmagan (birinchi tahlil 3 ta video chiqqach).
