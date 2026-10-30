@@ -39,16 +39,26 @@ Render natijasi `engine.OUT` papkasiga tushadi; keyin `videos/` ga nusxa olib, c
 | 2026-10-30 10:00 | B_buxoriy_16_yil.mp4 | Imom Buxoriy, 16 yil, 600 000 hadis | qo'lyozma/pergament, sharqona musiqa (Hijoz) | 408285761 |
 | 2026-10-31 10:00 | D_ibn_sino_tib_qonunlari.mp4 | Ibn Sino, "Tib qonunlari" | ko'k chizma (blueprint), kinematik pad + pianino | 408285784 |
 | 2026-11-01 10:00 | E_otkan_kunlar_birinchi_roman.mp4 | "O'tkan kunlar" — birinchi o'zbek romani | 1920-yillar gazetasi, grammofon vals | 408287767 |
+| 2026-11-02 10:00 | F_ulugbek_yulduz_yili.mp4 | Ulug'bek, yulduz yili 1 daqiqa aniqlikda, Ziji Ko'ragoniy | tungi osmon, lidiy ambient + qo'ng'iroqchalar, 18 s | 411501726 |
+| 2026-11-03 12:00 | G_kitob_va_umr.mp4 | Kitob o'qish va umr (Bavishi va b., Yale 2016) | sariq-qora kinetik tipografiya, EKG chizig'i, 120 bpm pop, 18 s | 411501753 |
+| 2026-11-04 10:00 | H_boburnoma_kundalik.mp4 | Bobur va "Boburnoma" | miniatyura (qizil-oltin), tanpura + tabla, 18 s | 411501779 |
 
 ## Keyingi mavzular uchun g'oyalar (ishlatilganini o'chiring)
 
 - Alisher Navoiy "Muhokamat ul-lug'atayn" (1499): turkiy tilni himoya qilgan asar.
-- Mirzo Ulug'bek rasadxonasi va "Ziji Ko'ragoniy" yulduzlar jadvali.
 - Beruniy: Yer aylanasi o'lchovi, "Hindiston" kitobi.
-- Bobur "Boburnoma": hukmdorning kundaligi.
 - O'qish va miya: kitob o'qish so'z boyligi va empatiyaga ta'siri (faqat tekshirilgan tadqiqotlar).
 - Dunyodagi eng qadimgi kutubxonalar, Usmon Mushafi (Toshkent).
 - BookNote imkoniyatlari: streak, yillik maqsad, Ijodxona, referal (animatsion tushuntirish, ilova skrinshotlarisiz).
 - Viktorina e'loni (21-noyabr), g'oliblar e'loni (natija Abdullohdan olinadi).
 
-Oxirgi metrika tahlili: hali bo'lmagan (birinchi tahlil 3 ta video chiqqach).
+## Metrika tahlillari
+
+### 1-tahlil (2026-10-30, A va C videolari; B uchun hali ma'lumot yo'q, YouTube bo'sh)
+- Instagram A: 150 ko'rish, 137 qamrov, 3 like, o'rtacha tomosha 4,4 s, view rate 25,9%.
+- Instagram C: 173 ko'rish, 147 qamrov, 4 like, 1 saqlash, o'rtacha tomosha 4,3 s, view rate 23,7%.
+- Xulosa: 33-36 s videoda odamlar ~4 soniyada ketyapti. Hook sekin (matn bo'sh ekrandan chiqadi), video uzun.
+- O'zgarishlar (F, G, H dan boshlab): 18 s davomiylik; hook matni 0-kadrdanoq to'liq ko'rinadi; har ~3,5 s yangi sahna;
+  tepada progress chizig'i; kattaroq shrift. C (o'qish ilmi) biroz yaxshiroq, shuning uchun G shu yo'nalishda.
+- Vaqt: Instagram eng yaxshi soat 10:00 (11-12 ham kuchli). G 12:00 da sinov sifatida qo'yildi, keyingi tahlilda solishtiriladi.
+- Keyingi tahlil: F, G, H chiqqach (2026-11-04 kechqurun).
