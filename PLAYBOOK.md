@@ -42,13 +42,16 @@ Render natijasi `engine.OUT` papkasiga tushadi; keyin `videos/` ga nusxa olib, c
 | 2026-11-02 10:00 | F_ulugbek_yulduz_yili.mp4 | Ulug'bek, yulduz yili 1 daqiqa aniqlikda, Ziji Ko'ragoniy | tungi osmon, lidiy ambient + qo'ng'iroqchalar, 18 s | 411501726 |
 | 2026-11-03 12:00 | G_kitob_va_umr.mp4 | Kitob o'qish va umr (Bavishi va b., Yale 2016) | sariq-qora kinetik tipografiya, EKG chizig'i, 120 bpm pop, 18 s | 411501753 |
 | 2026-11-04 10:00 | H_boburnoma_kundalik.mp4 | Bobur va "Boburnoma" | miniatyura (qizil-oltin), tanpura + tabla, 18 s | 411501779 |
+| 2026-11-05 10:00 | I_usmon_mushafi_toshkent.mp4 | Usmon Mushafi, Toshkent | zumrad-oltin, yo'l xaritasi, ney + daf, 22 s | 414316765 |
+| 2026-11-06 10:00 | J_navoiy_100_feol.mp4 | Navoiy, "Muhokamat ul-lug'atayn", 100 fe'l | firuza koshin naqsh, santur, 22 s | 414316800 |
+| 2026-11-07 10:00 | K_termiziy_shamoil.mp4 | Imom Termiziy, "Shamoili Muhammadiya" | tun-tong gradienti, fonus, qonun arpedjio, 22 s | 414316854 |
 
 ## Keyingi mavzular uchun g'oyalar (ishlatilganini o'chiring)
 
-- Alisher Navoiy "Muhokamat ul-lug'atayn" (1499): turkiy tilni himoya qilgan asar.
 - Beruniy: Yer aylanasi o'lchovi, "Hindiston" kitobi.
 - O'qish va miya: kitob o'qish so'z boyligi va empatiyaga ta'siri (faqat tekshirilgan tadqiqotlar).
-- Dunyodagi eng qadimgi kutubxonalar, Usmon Mushafi (Toshkent).
+- Dunyodagi eng qadimgi kutubxonalar.
+- Ma'naviy kitoblar va allomalar: Imom Moturidiy, Hakim Termiziy, Naqshband, Yassaviy "Hikmatlar" (2-tahlildan keyin eng kuchli yo'nalish).
 - BookNote imkoniyatlari: streak, yillik maqsad, Ijodxona, referal (animatsion tushuntirish, ilova skrinshotlarisiz).
 - Viktorina e'loni (21-noyabr), g'oliblar e'loni (natija Abdullohdan olinadi).
 
@@ -62,3 +65,13 @@ Render natijasi `engine.OUT` papkasiga tushadi; keyin `videos/` ga nusxa olib, c
   tepada progress chizig'i; kattaroq shrift. C (o'qish ilmi) biroz yaxshiroq, shuning uchun G shu yo'nalishda.
 - Vaqt: Instagram eng yaxshi soat 10:00 (11-12 ham kuchli). G 12:00 da sinov sifatida qo'yildi, keyingi tahlilda solishtiriladi.
 - Keyingi tahlil: F, G, H chiqqach (2026-11-04 kechqurun).
+
+### 2-tahlil (2026-11-02, B, D, E; F bugun chiqdi, hali ma'lumot yo'q)
+- Instagram B (Buxoriy, 30-okt): 1864 ko'rish, 1601 qamrov, 62 like, 13 saqlash, 7 ulashish, o'rtacha tomosha 6,6 s, view rate 43%.
+- Instagram E (O'tkan kunlar, 1-noy): 1789 ko'rish, 1591 qamrov, 35 like, 4 izoh, 6 saqlash, 3 ulashish, 6,0 s, 43%.
+- Instagram D (Ibn Sino, 31-okt): 127 ko'rish, 4,5 s, 37%. A va C: 150-180 ko'rish, 23-26%.
+- Xulosa: ma'naviy (diniy) kitob va mashhur o'zbek kitobi mavzulari 10 baravar ko'p ko'rildi. Ilm-fan/texnika mavzulari sust.
+  Iliq, "qo'lyozma/gazeta" estetikasi va kitobning o'ziga oid kuchli hissiy hook ishladi.
+- Qaror: I, J, K mavzulari ma'naviy meros va mashhur kitoblar; davomiylik 22 s (18 s va 33 s o'rtasida), hook 0-kadrda.
+- Vaqt: 10:00 hamon eng yaxshi (getBestTime). G 12:00 sinovi 3-tahlilda baholanadi. YouTube metrikalari hali bo'sh.
+- Keyingi tahlil: G, H, I chiqqach (2026-11-05 kechqurun).
