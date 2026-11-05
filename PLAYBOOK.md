@@ -45,13 +45,16 @@ Render natijasi `engine.OUT` papkasiga tushadi; keyin `videos/` ga nusxa olib, c
 | 2026-11-05 10:00 | I_usmon_mushafi_toshkent.mp4 | Usmon Mushafi, Toshkent | zumrad-oltin, yo'l xaritasi, ney + daf, 22 s | 414316765 |
 | 2026-11-06 10:00 | J_navoiy_100_feol.mp4 | Navoiy, "Muhokamat ul-lug'atayn", 100 fe'l | firuza koshin naqsh, santur, 22 s | 414316800 |
 | 2026-11-07 10:00 | K_termiziy_shamoil.mp4 | Imom Termiziy, "Shamoili Muhammadiya" | tun-tong gradienti, fonus, qonun arpedjio, 22 s | 414316854 |
+| 2026-11-08 10:00 | L_cholpon_kecha_va_kunduz.mp4 | Cho'lpon, "Kecha va kunduz", yo'qolgan ikkinchi qism | qorong'i stol, chiroq nuri, yozuv mashinkasi, pianino + violonchel, 22 s | 418035056 |
+| 2026-11-09 10:00 | M_yassaviy_hikmatlar.mp4 | Yassaviy, "Devoni hikmat" | cho'l shomi, maqbara siluet, shamol + dutor, 22 s | 418035084 |
+| 2026-11-10 10:00 | N_qutadgu_bilig.mp4 | "Qutadg'u bilig", 3 qo'lyozma | indigo-oltin, uyg'ur yozuvi yomg'iri, qo'biz + 6/8 doira, 22 s | 418035118 |
 
 ## Keyingi mavzular uchun g'oyalar (ishlatilganini o'chiring)
 
 - Beruniy: Yer aylanasi o'lchovi, "Hindiston" kitobi.
 - O'qish va miya: kitob o'qish so'z boyligi va empatiyaga ta'siri (faqat tekshirilgan tadqiqotlar).
 - Dunyodagi eng qadimgi kutubxonalar.
-- Ma'naviy kitoblar va allomalar: Imom Moturidiy, Hakim Termiziy, Naqshband, Yassaviy "Hikmatlar" (2-tahlildan keyin eng kuchli yo'nalish).
+- Ma'naviy kitoblar va allomalar: Imom Moturidiy, Hakim Termiziy, Naqshband, (Yassaviy ishlatildi) (2-tahlildan keyin eng kuchli yo'nalish).
 - BookNote imkoniyatlari: streak, yillik maqsad, Ijodxona, referal (animatsion tushuntirish, ilova skrinshotlarisiz).
 - Viktorina e'loni (21-noyabr), g'oliblar e'loni (natija Abdullohdan olinadi).
 
@@ -75,3 +78,15 @@ Render natijasi `engine.OUT` papkasiga tushadi; keyin `videos/` ga nusxa olib, c
 - Qaror: I, J, K mavzulari ma'naviy meros va mashhur kitoblar; davomiylik 22 s (18 s va 33 s o'rtasida), hook 0-kadrda.
 - Vaqt: 10:00 hamon eng yaxshi (getBestTime). G 12:00 sinovi 3-tahlilda baholanadi. YouTube metrikalari hali bo'sh.
 - Keyingi tahlil: G, H, I chiqqach (2026-11-05 kechqurun).
+
+### 3-tahlil (2026-11-05, F, G, H; I bugun chiqdi)
+- Instagram H (Boburnoma, 4-noy): 960 ko'rish, 14 like, 9 saqlash, 5 ulashish, 5,2 s, view rate 53,6% (eng yuqori).
+- Instagram F (Ulug'bek, 2-noy): 289 ko'rish, 4,6 s, 44%. G (kitob va umr, 3-noy 12:00): 129 ko'rish, 4,5 s, 39%.
+- Yangilangan jami: B 1869, E 1822, H 960 ko'rish; qolganlari 127-289.
+- Xulosa: "mashhur kitob va uning hikoyasi" formati ishlayapti (Sahihi Buxoriy, O'tkan kunlar, Boburnoma). Olim/fan haqidagi
+  videolar (Xorazmiy, Ibn Sino, Ulug'bek, o'qish ilmi) sust. Qisqa format view rate'ni 25% dan 44-54% ga ko'tardi.
+- 12:00 sinovi yomon (129 ko'rish), 10:00 qoldi.
+- Qaror: L, M, N ham aniq kitob hikoyasi (Kecha va kunduz, Devoni hikmat, Qutadg'u bilig), 22 s, hook 0-kadrda.
+- Keyingi tahlil: J, K, L chiqqach (2026-11-08 kechqurun).
+- Kelgusi g'oyalar: "Mehrobdan chayon", "Shum bola", "Alpomish", Imom Moturidiy, Naqshband, "Hamsa" dostonlari,
+  21-noyabr viktorinasi e'loni (taxminan 17-18-noyabr).
