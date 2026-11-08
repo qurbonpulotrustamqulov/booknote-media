@@ -48,6 +48,9 @@ Render natijasi `engine.OUT` papkasiga tushadi; keyin `videos/` ga nusxa olib, c
 | 2026-11-08 10:00 | L_cholpon_kecha_va_kunduz.mp4 | Cho'lpon, "Kecha va kunduz", yo'qolgan ikkinchi qism | qorong'i stol, chiroq nuri, yozuv mashinkasi, pianino + violonchel, 22 s | 418035056 |
 | 2026-11-09 10:00 | M_yassaviy_hikmatlar.mp4 | Yassaviy, "Devoni hikmat" | cho'l shomi, maqbara siluet, shamol + dutor, 22 s | 418035084 |
 | 2026-11-10 10:00 | N_qutadgu_bilig.mp4 | "Qutadg'u bilig", 3 qo'lyozma | indigo-oltin, uyg'ur yozuvi yomg'iri, qo'biz + 6/8 doira, 22 s | 418035118 |
+| 2026-11-11 10:00 | O_hidoya_marginoniy.mp4 | Marg'inoniy, "Al-Hidoya", 1791 inglizcha tarjima | XVIII asr hujjati, mum muhr, qalam, klavesin, 22 s | 420934953 |
+| 2026-11-12 10:00 | P_moturidiy_samarqand.mp4 | Imom Moturidiy, Kembrijdagi yagona qo'lyozma | oq marmar, aylanuvchi girih, xor-pad, 22 s | 420934975 |
+| 2026-11-13 10:00 | Q_zamaxshariy_jorulloh.mp4 | Zamaxshariy, "Jorulloh", "Al-Kashshof" | qishdan cho'lga o'tish, qor/quyosh, tor + riq, 22 s | 420934998 |
 
 ## Keyingi mavzular uchun g'oyalar (ishlatilganini o'chiring)
 
@@ -90,3 +93,12 @@ Render natijasi `engine.OUT` papkasiga tushadi; keyin `videos/` ga nusxa olib, c
 - Keyingi tahlil: J, K, L chiqqach (2026-11-08 kechqurun).
 - Kelgusi g'oyalar: "Mehrobdan chayon", "Shum bola", "Alpomish", Imom Moturidiy, Naqshband, "Hamsa" dostonlari,
   21-noyabr viktorinasi e'loni (taxminan 17-18-noyabr).
+
+### 4-tahlil (2026-11-08, I, J, K; L bugun chiqdi)
+- Instagram I (Usmon Mushafi, 5-noy): 1322 ko'rish, 34 like, 6 saqlash, 6 ulashish, 6,6 s, 50%.
+- Instagram K (Termiziy, 7-noy): 1215 ko'rish, 32 like, 12 saqlash, 19 ulashish (rekord), 5,8 s, 50%.
+- Instagram J (Navoiy, 6-noy): 715 ko'rish, 17 like, 3 ulashish, 5,4 s, 40%. H Boburnoma 1152 ga yetdi.
+- Xulosa: ma'naviy-diniy kitoblar va allomalar barqaror 1000+ ko'rish beradi va eng ko'p ulashiladi.
+  Adabiyot (Navoiy) o'rtacha. Fan sust. Format (22 s, hook 0-kadrda, 10:00) o'zgarmaydi.
+- Qaror: O, P, Q ham ma'naviy allomalar va ularning kitoblari.
+- Keyingi tahlil: M, N, O chiqqach (2026-11-11 kechqurun). 17-18-noyabrda 21-noyabr viktorinasi e'loni videosi kerak.
