@@ -51,6 +51,9 @@ Render natijasi `engine.OUT` papkasiga tushadi; keyin `videos/` ga nusxa olib, c
 | 2026-11-11 10:00 | O_hidoya_marginoniy.mp4 | Marg'inoniy, "Al-Hidoya", 1791 inglizcha tarjima | XVIII asr hujjati, mum muhr, qalam, klavesin, 22 s | 420934953 |
 | 2026-11-12 10:00 | P_moturidiy_samarqand.mp4 | Imom Moturidiy, Kembrijdagi yagona qo'lyozma | oq marmar, aylanuvchi girih, xor-pad, 22 s | 420934975 |
 | 2026-11-13 10:00 | Q_zamaxshariy_jorulloh.mp4 | Zamaxshariy, "Jorulloh", "Al-Kashshof" | qishdan cho'lga o'tish, qor/quyosh, tor + riq, 22 s | 420934998 |
+| 2026-11-14 10:00 | R_buxoriy_ilm_saroyga_bormaydi.mp4 | Imom Buxoriy surgun qilinishi, "Ilm saroyga bormaydi" | sham va yomg'ir, qorong'i, pianino + pad, 22 s | 424740198 |
+| 2026-11-15 10:00 | S_alpomish_ming_yil.mp4 | "Alpomish", ming yil og'zaki, 1928 yozib olingan, 1999 1000 yillik | cho'l tuni, oy, kamon-o'q, do'mbira + bo'g'iz drone, 22 s | 424740231 |
+| 2026-11-16 10:00 | T_1938_uch_adib.mp4 | 1938: Qodiriy, Cho'lpon, Fitrat | qora-oq xotira, uch sham, violonchel, 22 s | 424740251 |
 
 ## Keyingi mavzular uchun g'oyalar (ishlatilganini o'chiring)
 
@@ -102,3 +105,12 @@ Render natijasi `engine.OUT` papkasiga tushadi; keyin `videos/` ga nusxa olib, c
   Adabiyot (Navoiy) o'rtacha. Fan sust. Format (22 s, hook 0-kadrda, 10:00) o'zgarmaydi.
 - Qaror: O, P, Q ham ma'naviy allomalar va ularning kitoblari.
 - Keyingi tahlil: M, N, O chiqqach (2026-11-11 kechqurun). 17-18-noyabrda 21-noyabr viktorinasi e'loni videosi kerak.
+
+### 5-tahlil (2026-11-11, L, M, N; O bugun chiqdi)
+- Instagram L (Kecha va kunduz, 8-noy): 1762 ko'rish, 58 like, 6 izoh, 8 saqlash, 10 ulashish, o'rtacha 8,8 s (rekord), 54%.
+- Instagram M (Yassaviy, 9-noy): 1232 ko'rish, 24 like, 11 saqlash, 6,9 s, 54%.
+- Instagram N (Qutadg'u bilig, 10-noy): 162 ko'rish, 3,7 s, 32% (sust; hook sanalar/raqamdan iborat, insoniy drama yo'q).
+- Xulosa: hookda inson dramasi (yo'qotish, qurbonlik, sir) bo'lsa ko'rish va tomosha vaqti eng yuqori.
+  "950 yil oldin..." kabi quruq sana hooklari ishlamaydi.
+- Qaror: R, S, T hooklari insoniy drama bilan (surgun, ming yil yoddan, bir kechada uch adib).
+- Keyingi tahlil: P, Q, R chiqqach (2026-11-14 kechqurun). Viktorina tafsilotlari Abdullohdan so'raldi (8-noyabr), javob yo'q.
