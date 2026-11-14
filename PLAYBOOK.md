@@ -54,13 +54,16 @@ Render natijasi `engine.OUT` papkasiga tushadi; keyin `videos/` ga nusxa olib, c
 | 2026-11-14 10:00 | R_buxoriy_ilm_saroyga_bormaydi.mp4 | Imom Buxoriy surgun qilinishi, "Ilm saroyga bormaydi" | sham va yomg'ir, qorong'i, pianino + pad, 22 s | 424740198 |
 | 2026-11-15 10:00 | S_alpomish_ming_yil.mp4 | "Alpomish", ming yil og'zaki, 1928 yozib olingan, 1999 1000 yillik | cho'l tuni, oy, kamon-o'q, do'mbira + bo'g'iz drone, 22 s | 424740231 |
 | 2026-11-16 10:00 | T_1938_uch_adib.mp4 | 1938: Qodiriy, Cho'lpon, Fitrat | qora-oq xotira, uch sham, violonchel, 22 s | 424740251 |
+| 2026-11-17 10:00 | U_naqshband_dil_ba_yor.mp4 | Bahouddin Naqshband, "Dil ba yoru, dast ba kor" | kimxob (to'q qizil-oltin), dastgohda to'qilayotgan naqsh, dastgoh ritmi + rubob (hijoz), 22 s | 428208148 |
+| 2026-11-18 10:00 | V_shum_bola_gafur_gulom.mp4 | G'afur G'ulom, "Shum bola": yetimlikdan kulgili qissa | shom ko'kidan iliq mahalla qog'oz-kesmasiga o'tish, varrak; musiqa qutisi -> pizzikato + klarnet, 22 s | 428208174 |
+| 2026-11-19 10:00 | W_navoiy_xamsa_2_yil.mp4 | Navoiy "Xamsa": 5 doston, ~2 yil, 50 000+ misra | lojuvard tun, oltin chang, 5 gavhar beshburchak; chang arpedjio + tabla, 22 s | 428208189 |
 
 ## Keyingi mavzular uchun g'oyalar (ishlatilganini o'chiring)
 
 - Beruniy: Yer aylanasi o'lchovi, "Hindiston" kitobi.
 - O'qish va miya: kitob o'qish so'z boyligi va empatiyaga ta'siri (faqat tekshirilgan tadqiqotlar).
 - Dunyodagi eng qadimgi kutubxonalar.
-- Ma'naviy kitoblar va allomalar: Imom Moturidiy, Hakim Termiziy, Naqshband, (Yassaviy ishlatildi) (2-tahlildan keyin eng kuchli yo'nalish).
+- Ma'naviy kitoblar va allomalar: Hakim Termiziy, (Yassaviy, Moturidiy, Naqshband ishlatildi) (2-tahlildan keyin eng kuchli yo'nalish).
 - BookNote imkoniyatlari: streak, yillik maqsad, Ijodxona, referal (animatsion tushuntirish, ilova skrinshotlarisiz).
 - Viktorina e'loni (21-noyabr), g'oliblar e'loni (natija Abdullohdan olinadi).
 
@@ -114,3 +117,15 @@ Render natijasi `engine.OUT` papkasiga tushadi; keyin `videos/` ga nusxa olib, c
   "950 yil oldin..." kabi quruq sana hooklari ishlamaydi.
 - Qaror: R, S, T hooklari insoniy drama bilan (surgun, ming yil yoddan, bir kechada uch adib).
 - Keyingi tahlil: P, Q, R chiqqach (2026-11-14 kechqurun). Viktorina tafsilotlari Abdullohdan so'raldi (8-noyabr), javob yo'q.
+
+### 6-tahlil (2026-11-14, O, P, Q; R bugun chiqdi)
+- Instagram Q (Zamaxshariy, 13-noy): 1 kunda 1247 ko'rish, 1066 qamrov, 34 like, 15 saqlash, 6,3 s, 54%.
+- Instagram O (Al-Hidoya, 11-noy): 272 ko'rish, 5,8 s, 47%. P (Moturidiy, 12-noy): 209 ko'rish, 4,3 s, 37%.
+- Yangilangan: K 1386, L 1762, M 1236, J 723, N 165.
+- Xulosa: Q hooki shaxsga oid sirli nom ("Allohning qo'shnisi") bo'lgani uchun ishladi. O va P hooklari "kitob
+  chet eldagi kutubxona/sudda" degan quruq faktdan iborat edi, inson yo'q, sust. Qoida: hookda doim inson va
+  uning taqdiri yoki sirli laqabi bo'lsin; xorijiy muassasa/qo'lyozma soni hook bo'lmasin.
+- Qaror: U (Naqshband, hayot shiori), V (Shum bola, yetimlik -> kulgi), W (Xamsa, 2 yilda 5 doston). Vaqt 10:00
+  (getBestTime: 17-19-noyabr eng yuqori soat 10:00).
+- Viktorina tafsilotlari kelmadi, viktorina e'loni videosi qo'yilmadi.
+- Keyingi tahlil: S, T, U chiqqach (2026-11-17 kechqurun); 20-22-noyabr uchun videolar.
