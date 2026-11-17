@@ -57,6 +57,9 @@ Render natijasi `engine.OUT` papkasiga tushadi; keyin `videos/` ga nusxa olib, c
 | 2026-11-17 10:00 | U_naqshband_dil_ba_yor.mp4 | Bahouddin Naqshband, "Dil ba yoru, dast ba kor" | kimxob (to'q qizil-oltin), dastgohda to'qilayotgan naqsh, dastgoh ritmi + rubob (hijoz), 22 s | 428208148 |
 | 2026-11-18 10:00 | V_shum_bola_gafur_gulom.mp4 | G'afur G'ulom, "Shum bola": yetimlikdan kulgili qissa | shom ko'kidan iliq mahalla qog'oz-kesmasiga o'tish, varrak; musiqa qutisi -> pizzikato + klarnet, 22 s | 428208174 |
 | 2026-11-19 10:00 | W_navoiy_xamsa_2_yil.mp4 | Navoiy "Xamsa": 5 doston, ~2 yil, 50 000+ misra | lojuvard tun, oltin chang, 5 gavhar beshburchak; chang arpedjio + tabla, 22 s | 428208189 |
+| 2026-11-20 10:00 | X_mashrab_balx_1711.mp4 | Mashrab: darvesh shoir, 1711 Balxda qatl, "Devoni Mashrab" | za'faron qog'oz, siyoh mo'yqalam, ilonizi yo'l; g'ijjak + doira (7/8 aksak), 22 s | 431797691 |
+| 2026-11-21 10:00 | Y_bobur_humoyun_jon.mp4 | Bobur Humoyun uchun jonini so'radi (Gulbadan begim, "Humoyunnoma") | to'q yashil tun, chiroq nuri, to'shak atrofida 3 aylana; pianino (re minor) + torli pad, 22 s | 431797722 |
+| 2026-11-22 10:00 | Z_nodira_devon.mp4 | Nodirabegim: malika-shoira, 1842 qatl, devoni qoldi | fil suyagi-pushti bog', gul barglari, fojiada olxo'ri rangga o'tadi; arfa + "aah" xor, 22 s | 431797746 |
 
 ## Keyingi mavzular uchun g'oyalar (ishlatilganini o'chiring)
 
@@ -129,3 +132,13 @@ Render natijasi `engine.OUT` papkasiga tushadi; keyin `videos/` ga nusxa olib, c
   (getBestTime: 17-19-noyabr eng yuqori soat 10:00).
 - Viktorina tafsilotlari kelmadi, viktorina e'loni videosi qo'yilmadi.
 - Keyingi tahlil: S, T, U chiqqach (2026-11-17 kechqurun); 20-22-noyabr uchun videolar.
+
+### 7-tahlil (2026-11-17, S, T, U; U bugun chiqdi, hali ma'lumot yo'q)
+- Instagram R (Buxoriy surgun, 14-noy): 1863 ko'rish, 54 like, 7 saqlash, 9 ulashish, 7,6 s, 61,7%.
+- Instagram T (1938 uch adib, 16-noy): 1 kunda 1657 ko'rish, 30 like, 11 saqlash, 8,4 s, 67,4% (view rate rekordi).
+- Instagram S (Alpomish, 15-noy): 1175 ko'rish, 20 like, 6 ulashish, 5,9 s, 56,7%. Q Zamaxshariy 1309 ga yetdi.
+- Xulosa: 5-tahlildagi "inson dramasi hooki" qoidasidan beri ketma-ket 4 video 1100-1900 ko'rish va 55-67% view rate.
+  Eng kuchlisi fojia/qurbonlik (surgun, qatag'on). Vaqt 10:00 (getBestTime 20-22-noyabr ham 10:00 eng yuqori).
+- Qaror: X Mashrab (qatl), Y Bobur-Humoyun (ota fidoyiligi), Z Nodira (malika-shoira qatli). Hammasi kitob bilan bog'liq.
+- Viktorina tafsilotlari hamon yo'q, 21-noyabr uchun e'lon qo'yilmadi.
+- Keyingi tahlil: V, W, X chiqqach (2026-11-20 kechqurun); 23-26-noyabr uchun oxirgi 4 video.
